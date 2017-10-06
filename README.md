@@ -2,9 +2,9 @@
 
 # Python 3: Fundamentos
 
-Este curso es una prueba piloto de los cursos virtuales de la Organización Scalibur con la plataforma CoCalc.  
+Este curso es una prueba piloto de los cursos virtuales de la Organización Scalibur.  
 
-El curso presente tiene como objetivo dar los fundamentos de programación con el lenguaje Python (versión 3) a los beneficiarios de la Organización Scalibur, con inicio estimado la primera semana de julio y final estimado la primera semana de septiembre.  
+El curso presente tiene como objetivo dar los fundamentos de programación con el lenguaje Python (versión 3) a los beneficiarios de la Organización Scalibur.  
 
 ## Tutores
 
@@ -14,7 +14,7 @@ El curso presente tiene como objetivo dar los fundamentos de programación con e
 
 El contenido es susceptible de cambios durante el periodo de vigencia y la continuación de este se puede programar como un curso posterior.  
 
-Las lecturas de los temas se encuentran en formato markdown (`.md`) que para su cómoda lectura debe visualizar el panel derecho que abre CoCalc. También encontrará lecturas en formato notebook (`.ipynb`) que visualizará directamente en la misma zona que se edita.  
+Las lecturas de los temas se encuentran en formato markdown (`.md`) que para su cómoda lectura puede visualizar directamente en el navegador desde github. También encontrará lecturas en formato notebook (`.ipynb`) que visualizará directamente en github sin dificultad o en MyBinder. Si descarga el material, los archivos markdown son archivos que deberá abrir con block de notas y los archivos notebook dependen de Jupyter Notebook.  
 
 +   Conceptos básicos:  
     +   [Lenguajes de programación y python](lecturas/t1l1.md).  
@@ -32,4 +32,4 @@ Las lecturas de los temas se encuentran en formato markdown (`.md`) que para su 
 
 ## Requisitos
 
-Este curso esta pensado en requerir un mínimo de recursos técnicos para el estudiante. La instalación de python 3 en el equipo personal es opcional ya que puede usar la plataforma de CoCalc directamente para desarrollar las actividades y no solo enviarlas.  
+Este curso esta pensado en requerir un mínimo de recursos técnicos para el estudiante. La instalación de python 3 en el equipo personal es opcional ya que puede usar la plataforma de MyBinder directamente para desarrollar las actividades (recuerde descargarlas pues el almacenamiento no es permanente).  
