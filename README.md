@@ -17,11 +17,11 @@ El contenido es susceptible de cambios durante el periodo de vigencia y la conti
 Las lecturas de los temas se encuentran en formato markdown (`.md`) que para su cómoda lectura debe visualizar el panel derecho que abre CoCalc. También encontrará lecturas en formato notebook (`.ipynb`) que visualizará directamente en la misma zona que se edita.  
 
 +   Conceptos básicos:  
-    +   [Lenguajes de programación y python](Lecturas/T1L1.md).  
-    +   [Operadores aritméticos](Lecturas/T1L2.md).  
-    +   [Operadores lógicos](Lecturas/T1L3.md).  
-    +   [Jerarquía de operadores](Lecturas/T1L4.md).  
-+   [Usando python](Lecturas/T2L1.md):  
+    +   [Lenguajes de programación y python](lecturas/t1l1.md).  
+    +   [Operadores aritméticos](lecturas/t1l2.md).  
+    +   [Operadores lógicos](lecturas/t1l3.md).  
+    +   [Jerarquía de operadores](lecturas/t1l4.md).  
++   [Usando python](lecturas/t2l1.md):  
     +   Versión de python.  
     +   Obtener python.  
     +   Instalar python.  
