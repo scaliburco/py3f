@@ -25,7 +25,7 @@ Indique a continuación como respuesta, solo el número de la opción correcta.
 +   __Indique cual de las siguientes opciones es falsa__  
     1.  Un lenguaje de programación es un conjunto de palabras finito.  
     1.  Un lenguaje de programación es ambiguo.  
-    1.  Un lenguaje de programación sirve para específicar instrucciones.  
+    1.  Un lenguaje de programación sirve para especificar instrucciones.  
     1.  Las instrucciones dadas en el lenguaje de programación requieren de elementos intermedios para su ejecución en un computador.  
 
 '''  
@@ -66,7 +66,7 @@ p4 = None
     1.  Si, como es multiplataforma solo implica que funciona en distintos procesadores.  
     1.  No, también funciona en otros, pues el concepto de multiplataforma se refiere a los sistemas operativos.  
     1.  Si, porque windows es el único sistema operativo que existe.  
-    1.  No, porque cualquier programa funciona siempre en todos los sitemas operativos que existen.  
+    1.  No, porque cualquier programa funciona siempre en todos los sistemas operativos que existen.  
 
 '''
 p5 = None  

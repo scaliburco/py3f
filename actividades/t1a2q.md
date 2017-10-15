@@ -80,7 +80,7 @@ p6= None
 p7 = None
 
 '''  
-+   __Cálcule el `11%4`__:  
++   __Calcule el `11%4`__:  
 
 '''  
 p8 = None
