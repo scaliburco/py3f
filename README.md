@@ -26,10 +26,16 @@ Las lecturas de los temas se encuentran en formato markdown (`.md`) que para su 
     +   Obtener python.  
     +   Instalar python.  
     +   Ejecutar python.  
-+   Variables y funciones: Tipos de variables y funciones básicas.  
++   Variables y funciones:  
+    +   Tipos de datos:  
+        +   [Numéricos y lógicos](lecturas/t3l1.ipynb).  
+        +   Cadena de caracteres y agrupaciones (listas, tuples, diccionarios y conjuntos).  
+    +   Funciones básicas.  
 +   Estructuras de control: Condicionales, ciclos y captura de errores.  
 +   Programación modular: Funciones y módulos definidos por usuario.  
 
 ## Requisitos
 
 Este curso esta pensado en requerir un mínimo de recursos técnicos para el estudiante. La instalación de python 3 en el equipo personal es opcional ya que puede usar la plataforma de MyBinder directamente para desarrollar las actividades (recuerde descargarlas pues el almacenamiento no es permanente).  
+
+Los fundamentos matemáticos son acompañados por las sesiones presenciales de los beneficiarios pero en lo posible se hará lo más descriptivo posible en las lecturas disponibles.  
