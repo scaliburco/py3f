@@ -18,9 +18,9 @@ Las lecturas de los temas se encuentran en formato markdown (`.md`) que para su 
 
 +   Conceptos básicos:  
     +   [Lenguajes de programación y python](lecturas/t1l1.md).  
-    +   [Operadores aritméticos](lecturas/t1l2.md).  
-    +   [Operadores lógicos](lecturas/t1l3.md).  
-    +   [Jerarquía de operadores](lecturas/t1l4.md).  
+    +   [Operadores aritméticos](lecturas/t1l2.ipynb).  
+    +   [Operadores lógicos](lecturas/t1l3.ipynb).  
+    +   [Jerarquía de operadores](lecturas/t1l4.ipynb).  
 +   [Usando python](lecturas/t2l1.md):  
     +   Versión de python.  
     +   Obtener python.  
